@@ -1,3 +1,4 @@
+```Console
 alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1$ export GITHUB_USERNAME=allxdrstp
 alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1$ export GIST_TOKEN=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
 alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1$ alias edit=nano
@@ -40,3 +41,4 @@ alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1/allxdrstp/wor
 > EOF
 alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1/allxdrstp/workspace$ source scripts/activate
 alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1/allxdrstp/workspace$ gem install gist
+```
