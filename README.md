@@ -1,4 +1,4 @@
-```Console
+
 Laboratory work I
 
 Данная лабораторная работа посвещена изучению утилит для разработки проектов
@@ -9,7 +9,7 @@ Tasks
     3. Составить отчет и отправить ссылку личным сообщением в Slack
 
 Выполнение работы
-
+```Console
 alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1$ export GITHUB_USERNAME=allxdrstp
 alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1$ export GIST_TOKEN=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
 alexandra@alexandra-virtual-machine:~/Рабочий стол/lab1$ alias edit=nano
